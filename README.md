@@ -1,4 +1,11 @@
-### Hi there 👋
+# Shaun Wellman
+
+I am an avid and passionate creator. I find my greatest joy in life comes from making things that either bring joy to others or that stand out as being different. 
+The forms that my creations can take are many and varied. I have produced everything from small scale sculptures to fully painted house interiors to code based websites and games. 
+
+Having created so many various things and tried my hand at so many different disciplines I find that while I have picked up a lot of useful skills, I have yet to find my place in the world. 
+I believe that I have found it now with Software Engineering, due to the depth and breadth of scope of potential projects that can be achieved.
+
 
 <!--
 **SAdrianW/SAdrianW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
